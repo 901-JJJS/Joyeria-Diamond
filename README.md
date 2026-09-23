@@ -7,7 +7,7 @@ Aplicación web
 DESARROLLAR
 
 ## FUNCIONALIDADES
-- [ ]Crud Clientes
+- [ ] CRUD Clientes
 - [ ] CRUD Productos
 - [ ] CRUD Ofertas
 - [ ] Carrito
